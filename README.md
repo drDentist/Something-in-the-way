@@ -1,7 +1,7 @@
 Something-in-the-way
 ====================
-Underneath the bridge
-Tarp has sprung a leak
+<p>Underneath the bridge,</p>
+<p>Tarp has sprung a leak</p>
 And the animals I've trapped
 have all become my pets
 And I'm living off of grass
